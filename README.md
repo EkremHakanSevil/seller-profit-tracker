@@ -8,6 +8,8 @@ A 6-tab Excel / Google Sheets workbook that shows small online sellers their **r
 
 ![Seller Profit Tracker](screenshots/01_hero.jpg)
 
+🎬 **[Watch the 13-second product video](video/product_video.mp4)**
+
 ## Features
 
 - **Sales Log** – enter price, quantity and costs; gross sale, platform fees, net profit and margin are calculated per order (500 rows)
